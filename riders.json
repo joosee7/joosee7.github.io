@@ -1,0 +1,127 @@
+[
+    {
+      "Hora": "8:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "8:30",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "9:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "9:30",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "10:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "10:30",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "11:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "11:30",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "12:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "12:30",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "13:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "13:30",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "14:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "14:30",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "15:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "15:30",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "16:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "16:30",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "17:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "17:30",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "18:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "18:30",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "19:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "19:30",
+      "Riders": "8",
+      "Estado": "Disponible"
+    },
+    {
+      "Hora": "20:00",
+      "Riders": "8",
+      "Estado": "Disponible"
+    }
+  ]
